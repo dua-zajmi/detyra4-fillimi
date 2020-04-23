@@ -1,0 +1,12 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.Packed-services-container{
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	width: 80vw;
+	left: 35%;
+	
+}
